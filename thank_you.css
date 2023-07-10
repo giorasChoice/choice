@@ -1,0 +1,28 @@
+body {
+    background-color: #EAE3EB;
+    font-family: Verdana;
+    text-align: center;
+}
+
+
+.fa-circle-check{
+    color: #7e72a0;
+    font-size: 60px;
+}
+
+.fa-instagram{
+    color:#fccc63;
+    font-size: 45px;
+}
+
+
+.fa-spotify{
+    color:#1db954;
+    font-size: 45px;
+}
+
+.fa-instagram,
+.fa-spotify {
+    margin-right: 25px;
+    margin-left: 25px;
+}
